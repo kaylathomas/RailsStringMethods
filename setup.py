@@ -1,14 +1,14 @@
 from distutils.core import setup
 setup(
   name = 'RailsStringMethods',
-  packages = ['RailsStringMethods'],
-  version = '0.1',
+  packages = ['rsm'],
+  version = '0.2',
   license='MIT',
   description = 'A library that allows Python devs to mimic the useful string methods available in Ruby on Rails.',
   author = 'KayLa Thomas',
   author_email = 'kaylathomas.dev@gmail.com',
   url = 'https://github.com/kaylathomas/RailsStringMethods',
-  download_url = 'https://github.com/kaylathomas/RailsStringMethods/archive/refs/tags/v_0.1.tar.gz',
+  download_url = 'https://github.com/kaylathomas/RailsStringMethods/archive/refs/tags/v_0.2.tar.gz',
   keywords = ['ruby on rails', 'ruby', 'python', 'string library', 'strings'],
   install_requires=[
       're',
