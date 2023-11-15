@@ -7,8 +7,8 @@ setup(
   description = 'A library that allows Python devs to mimic the useful string methods available in Ruby on Rails.',
   author = 'KayLa Thomas',
   author_email = 'kaylathomas.dev@gmail.com',
-  url = 'https://github.com/kaylathomas/RailsDates',
-  download_url = 'https://github.com/kaylathomas/RailsDates/archive/refs/tags/v_0.9.tar.gz',
+  url = 'https://github.com/kaylathomas/RailsStringMethods',
+  download_url = 'https://github.com/kaylathomas/RailsStringMethods/archive/refs/tags/v_0.1.tar.gz',
   keywords = ['ruby on rails', 'ruby', 'python', 'string library', 'strings'],
   install_requires=[
       're',
