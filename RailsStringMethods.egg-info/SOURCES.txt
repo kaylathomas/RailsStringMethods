@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+RailsStringMethods/__init__.py
+RailsStringMethods/rails_string_methods_core.py
+RailsStringMethods.egg-info/PKG-INFO
+RailsStringMethods.egg-info/SOURCES.txt
+RailsStringMethods.egg-info/dependency_links.txt
+RailsStringMethods.egg-info/requires.txt
+RailsStringMethods.egg-info/top_level.txt
